@@ -8,7 +8,7 @@ You can host the program in online ides like Replit to add your exercise data re
 
 *You will need to change the ENVIRONMENT VARIABLES, weight, height and age according to your choice.
 
-I did this project as a part of course at [udemy.com ](https://www.udemy.com/course/100-days-of-code/)https://www.udemy.com/course/100-days-of-code/
+I did this project as a part of course at https://www.udemy.com/course/100-days-of-code/
 
 ![image](https://github.com/rishichop/Exercise-Tabulator/assets/84148892/ca99e47a-bc3c-485f-8ba5-f1955c153b74)
 
